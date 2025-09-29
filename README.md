@@ -12,7 +12,7 @@ Main goals: accurate automatic license-plate recognition, traffic-light control 
 5. Online Vehicle license registration.
 6. Smart fine system.
 
-###Applications
+### Applications
 1. Automated track the location of stolen vehicle
 2. Anti-Theft/ Vehicle detection.
 3. Traffic light automation ,no requirement of Traffic police.
